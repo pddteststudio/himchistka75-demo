@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Авторская иллюстрация"><defs>
+ <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A1E8D9"/><stop offset="1" stop-color="#54BCAF"/></linearGradient>
+ <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#508D9A"/><stop offset="1" stop-color="#246070"/></linearGradient>
+ <linearGradient id="cush" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8FBF1"/><stop offset="1" stop-color="#75CEBE"/></linearGradient>
+ <linearGradient id="haze" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".8"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="190%"><feGaussianBlur stdDeviation="11"/></filter>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#13766E" opacity=".10"/></pattern>
+ </defs><rect width="640" height="430" rx="36" fill="#F0EAF4"/><circle cx="490" cy="82" r="142" fill="white" opacity=".35"/><path d="M20 340c100-55 236-33 356-8s211 13 252-7" stroke="#6EBFAF" stroke-opacity=".24" stroke-width="3" stroke-dasharray="9 12" fill="none"/>
+<ellipse cx="315" cy="351" rx="236" ry="24" fill="#4F6578" opacity=".14"/>
+<path d="M70 245L360 135 573 226 274 347Z" fill="#497F94"/>
+<path d="M70 245v51l204 72v-51Z" fill="#286278"/><path d="M274 317v51l299-119v-23Z" fill="#3D7184"/>
+<path d="M70 230L358 126 571 214 275 323Z" fill="#FEFFFC" stroke="#8CC6BE" stroke-width="7"/>
+<path d="M125 222l241-84m-188 104 241-85m-182 104 240-84" stroke="#BCE6D9" stroke-width="3" opacity=".75"/>
+<path d="M120 253l199-71m-136 93 200-72m-134 93 198-74" stroke="#9BCDBD" stroke-width="3"/>
+<path d="M93 232l183 69m-118-95 184 70m-118-95 183 70" stroke="#9BCDBD" stroke-width="3"/>
+<path d="M178 196l78-29 69 25-74 29Z" fill="#D7EAF4" stroke="#98C1CF" stroke-width="2"/><path d="M500 78.4 L502.7 88.3 L512.6 91 L502.7 93.7 L500 103.6 L497.3 93.7 L487.4 91 L497.3 88.3Z" fill="#F0CB73"/></svg>

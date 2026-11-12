@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Авторская иллюстрация"><defs>
+ <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A1E8D9"/><stop offset="1" stop-color="#54BCAF"/></linearGradient>
+ <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#508D9A"/><stop offset="1" stop-color="#246070"/></linearGradient>
+ <linearGradient id="cush" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8FBF1"/><stop offset="1" stop-color="#75CEBE"/></linearGradient>
+ <linearGradient id="haze" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".8"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="190%"><feGaussianBlur stdDeviation="11"/></filter>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#13766E" opacity=".10"/></pattern>
+ </defs><rect width="640" height="430" rx="36" fill="#ECF4F9"/><circle cx="490" cy="82" r="142" fill="white" opacity=".35"/><path d="M20 340c100-55 236-33 356-8s211 13 252-7" stroke="#6EBFAF" stroke-opacity=".24" stroke-width="3" stroke-dasharray="9 12" fill="none"/>
+<path d="M79 175l426-80 61 219-428 78Z" fill="#B8D4D4"/>
+<path d="M94 178l397-69 56 190-396 73Z" fill="#74B9B6"/>
+<path d="M94 178l397-69 56 190-396 73Z" fill="url(#dots)"/>
+<path d="M170 237l237-45m-213 96 236-45m-213 96 231-46" stroke="#DFF4F0" stroke-width="13" stroke-linecap="round" opacity=".8"/>
+<circle cx="501" cy="90" r="54" fill="#F5D88F"/><path d="M480 90l16 16 28-35" stroke="#257C76" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>

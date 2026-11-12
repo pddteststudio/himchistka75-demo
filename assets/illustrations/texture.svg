@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Авторская иллюстрация"><defs>
+ <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A1E8D9"/><stop offset="1" stop-color="#54BCAF"/></linearGradient>
+ <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#508D9A"/><stop offset="1" stop-color="#246070"/></linearGradient>
+ <linearGradient id="cush" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8FBF1"/><stop offset="1" stop-color="#75CEBE"/></linearGradient>
+ <linearGradient id="haze" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".8"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="190%"><feGaussianBlur stdDeviation="11"/></filter>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#13766E" opacity=".10"/></pattern>
+ </defs><rect width="640" height="430" rx="36" fill="#DAEFE7"/><path d="M-20 214C78 69 166 373 295 200s210-125 372 15" fill="none" stroke="#8DD3C7" stroke-width="98" stroke-linecap="round"/><path d="M-20 214C78 69 166 373 295 200s210-125 372 15" fill="none" stroke="#D6F7EE" stroke-width="68" stroke-linecap="round"/><path d="M-20 214C78 69 166 373 295 200s210-125 372 15" fill="none" stroke="#59B4A8" stroke-opacity=".38" stroke-width="2" stroke-dasharray="5 13"/><circle cx="469" cy="111" r="52" fill="#FFF9E7"/><path d="M445 112l16 15 31-37" stroke="#41A98E" stroke-width="9" stroke-linecap="round" fill="none"/><path d="M162 80.4 L164.7 90.3 L174.6 93 L164.7 95.7 L162 105.6 L159.3 95.7 L149.4 93 L159.3 90.3Z" fill="#F0CB73"/></svg>
